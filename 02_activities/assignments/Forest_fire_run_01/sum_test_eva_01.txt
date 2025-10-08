@@ -1,0 +1,5 @@
+MSE	RMSE	MAE	MaxError	pipeline
+692.3	26.31	16.31	198.25	pipe_a
+707.74	26.6	9.63	212.88	pipe_b
+959.62	30.98	17.43	203.66	pipe_c
+675.88	26.0	15.29	197.72	pipe_d
