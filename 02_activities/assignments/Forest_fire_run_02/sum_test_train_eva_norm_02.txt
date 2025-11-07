@@ -1,0 +1,6 @@
+Based on the normalized results from both training and testing data relative to the baseline (Pipeline A),
+In contrast,
+
+⚠️ When examining the RMSE/MAE ratio, Pipeline B yields a value of 1.29, indicating that . This occurs because MAE , whereas RMSE penalizes larger deviations more heavily.
+
+Therefore, when considering both accuracy and stability,  However, given its longer training time, further optimization of computational efficiency would be crucial for practical deployment.
